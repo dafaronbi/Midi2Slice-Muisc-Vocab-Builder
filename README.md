@@ -3,7 +3,7 @@ Python implementation of previous Matlab midi2slice code
 
 musicWord2Vec
 Adapted from paper “From Context to Concept: Exploring Semantic Relationships in Music with Word2Vec,” Neural Computing and Applications, 
-Original Code in matlab [available here] (https://github.com/ChinghuaChuan/musicWord2Vec/tree/master)
+Original Code in matlab [available here](https://github.com/ChinghuaChuan/musicWord2Vec/tree/master)
 
 Script build_music_vocab.py
 
