@@ -1,4 +1,4 @@
-# Midi2Slice-Muisc-Vocab-Builder
+# Midi2Slice-Music-Vocab-Builder
 Python implementation of previous Matlab midi2slice code
 
 musicWord2Vec
