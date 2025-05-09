@@ -7,6 +7,10 @@ Original Code in matlab [available here](https://github.com/ChinghuaChuan/musicW
 
 Script build_music_vocab.py
 
+To run, first install requirements:
+
+`pip install -r requirements.txt`
+
 This file converts midi files in a folder into sequences of music slices.
 Example: 
 
